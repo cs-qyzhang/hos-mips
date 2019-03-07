@@ -1,3 +1,5 @@
+forked from [MrShawCode/hos-mips](https://github.com/MrShawCode/hos-mips)
+
 This is a simple mips architecture OS in windows platform based on Tsinghua ucore OS. 
 
 For details about ucore, readers are refered to:
